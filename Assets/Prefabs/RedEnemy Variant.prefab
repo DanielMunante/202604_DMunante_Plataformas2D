@@ -48,9 +48,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 992494159352941186, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1139602927492593056, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4823469013906179083, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4595565320718623748, guid: 04f316eb47fe75e409838ed765c192dc, type: 3}
+    - target: {fileID: 7029259529313751333, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7457344571816526850, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
       propertyPath: m_Name
       value: RedEnemy Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7457344571816526850, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 7946200653233023943, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8807021494758258264, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
       propertyPath: m_Controller
@@ -63,6 +87,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7457344571816526850, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5548393485091976323}
+    - targetCorrespondingSourceObject: {fileID: 7457344571816526850, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2328452246515160569}
+    - targetCorrespondingSourceObject: {fileID: 7457344571816526850, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1368499276442899139}
   m_SourcePrefab: {fileID: 100100000, guid: fc957b42ef36d5341b60deb7b01a491e, type: 3}
 --- !u!1 &6065404819028274374 stripped
 GameObject:
@@ -82,4 +112,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AIControl
   target: {fileID: 0}
-  attackDistance: 0.1
+  attackDistance: 0.25
+--- !u!114 &2328452246515160569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6065404819028274374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 983e08c1b8aaf4a42bd5cbce4a883109, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDeath
+  scoreOnKill: 50
+  deathSound: {fileID: 0}
+--- !u!114 &1368499276442899139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6065404819028274374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b340d0f941941f14494ebf6ec370baba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Life
+  startLife: 1
+  damagePerHit: 1
+  onLifeChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onLifeDepleted:
+    m_PersistentCalls:
+      m_Calls: []
+  debugReceiveDamage: 0

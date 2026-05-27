@@ -8,6 +8,7 @@ public class CharacterController2D : MonoBehaviour
 {
     [Header("Movement Settings")]
     [SerializeField] float movementSpeed = 3f;
+    float originalSpeed;
     [SerializeField] float jumpVelocity = 5f;
 
     [Header("Ground Check")]
@@ -31,6 +32,8 @@ public class CharacterController2D : MonoBehaviour
 
         rightHit.gameObject.SetActive(false);
         leftHit.gameObject.SetActive(false);
+
+        originalSpeed = movementSpeed;
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -100,6 +103,17 @@ public class CharacterController2D : MonoBehaviour
     {
         leftHit.gameObject.SetActive(false);
         rightHit.gameObject.SetActive(false);
+    }
+
+
+    public void SetSpeedMultiplier(float multiplier)
+    {
+        movementSpeed = originalSpeed * multiplier;
+    }
+
+    public void ResetSpeed()
+    {
+        movementSpeed = originalSpeed;
     }
 
 }
