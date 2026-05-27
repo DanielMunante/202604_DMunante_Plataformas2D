@@ -151,4 +151,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65f527098bb0e0a458298af16bef51bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PowerUpHeart
-  pickupSound: {fileID: 0}
+  pickupSound: {fileID: 8300000, guid: aca91e20160b42e429417b1476100009, type: 3}

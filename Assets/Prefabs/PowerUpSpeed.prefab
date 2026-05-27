@@ -153,4 +153,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PowerUpSpeed
   speedMultiplier: 2
   duration: 5
-  pickupSound: {fileID: 0}
+  pickupSound: {fileID: 8300000, guid: aca91e20160b42e429417b1476100009, type: 3}

@@ -126,7 +126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyDeath
   scoreOnKill: 50
-  deathSound: {fileID: 0}
+  deathSound: {fileID: 8300000, guid: 8b54131dce962dd4982484f53ce45011, type: 3}
 --- !u!114 &1368499276442899139
 MonoBehaviour:
   m_ObjectHideFlags: 0

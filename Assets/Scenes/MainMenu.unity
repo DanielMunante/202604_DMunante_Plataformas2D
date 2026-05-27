@@ -710,9 +710,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   startLives: 3
-  backgroundMusic: {fileID: 0}
-  coinSound: {fileID: 0}
-  victorySound: {fileID: 0}
+  backgroundMusic: {fileID: 8300000, guid: 6726f59073edea646902419f96b36ed1, type: 3}
+  coinSound: {fileID: 8300000, guid: 454edb9f44686aa4fa3ea29a4a5277b9, type: 3}
+  victorySound: {fileID: 8300000, guid: b53512c7b1bbf9e4a810059815e05370, type: 3}
   score: 0
   lives: 0
   isInvincible: 0

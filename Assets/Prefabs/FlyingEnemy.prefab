@@ -211,7 +211,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FlyingEnemy
   speed: 2
   patrolDistance: 3
-  hitSound: {fileID: 0}
+  hitSound: {fileID: 8300000, guid: 4b588e777d5b2d04cb3b2feda3805e69, type: 3}
 --- !u!114 &7518647725032288988
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -225,4 +225,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyDeath
   scoreOnKill: 100
-  deathSound: {fileID: 0}
+  deathSound: {fileID: 8300000, guid: 8b54131dce962dd4982484f53ce45011, type: 3}

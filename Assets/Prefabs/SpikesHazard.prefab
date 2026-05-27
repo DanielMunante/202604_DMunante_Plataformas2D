@@ -151,4 +151,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3afa640cc630ea244bf3b1341043ae83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Hazard
-  damageSound: {fileID: 0}
+  damageSound: {fileID: 8300000, guid: 4b588e777d5b2d04cb3b2feda3805e69, type: 3}
