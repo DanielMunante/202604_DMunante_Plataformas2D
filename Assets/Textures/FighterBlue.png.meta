@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 036edbed212729a47862f291a73b5b6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8642785428335811033
+    second: player-spritemap-v9_0
+  - first:
+      213: 452195989371382281
+    second: player-spritemap-v9_1
+  - first:
+      213: 3708846060637832886
+    second: player-spritemap-v9_2
+  - first:
+      213: 3095517573826287673
+    second: player-spritemap-v9_3
+  - first:
+      213: 8176112644636638370
+    second: player-spritemap-v9_4
+  - first:
+      213: -8907726078040817808
+    second: player-spritemap-v9_5
+  - first:
+      213: -1361703909733655189
+    second: player-spritemap-v9_6
+  - first:
+      213: -2944722730166456009
+    second: player-spritemap-v9_7
+  - first:
+      213: 3173776780516420838
+    second: player-spritemap-v9_8
+  - first:
+      213: 644977489060215823
+    second: player-spritemap-v9_9
+  - first:
+      213: -330595215893084398
+    second: player-spritemap-v9_10
+  - first:
+      213: -3992251639089268351
+    second: player-spritemap-v9_11
+  - first:
+      213: 8243256287183359799
+    second: player-spritemap-v9_12
+  - first:
+      213: 2670167917773918773
+    second: player-spritemap-v9_13
+  - first:
+      213: 4114303295118733416
+    second: player-spritemap-v9_14
+  - first:
+      213: -3929657492211536491
+    second: player-spritemap-v9_15
+  - first:
+      213: -4277367520853534289
+    second: player-spritemap-v9_16
+  - first:
+      213: 7237236814630642012
+    second: player-spritemap-v9_17
+  - first:
+      213: 7737229767347566910
+    second: player-spritemap-v9_18
+  - first:
+      213: 3646186648451255390
+    second: player-spritemap-v9_19
+  - first:
+      213: -7588743135369845875
+    second: player-spritemap-v9_20
+  - first:
+      213: 7313914663585478800
+    second: player-spritemap-v9_21
+  - first:
+      213: 2058417246610374568
+    second: player-spritemap-v9_22
+  - first:
+      213: -4919964686581793577
+    second: player-spritemap-v9_23
+  - first:
+      213: -156051916278505752
+    second: player-spritemap-v9_24
+  - first:
+      213: 4033524813763030353
+    second: player-spritemap-v9_25
+  - first:
+      213: 6381144529914604576
+    second: player-spritemap-v9_26
+  - first:
+      213: -6246875598559131587
+    second: player-spritemap-v9_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FighterBlue_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 152
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eac5c0e98eaf724e927e8afd63fc618
+      internalID: 849337191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 152
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62282189e68298e47a26985329b21c7c
+      internalID: 1785022441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febeb7482d8a91e4b9ed20514a5647db
+      internalID: 672044746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc1119d5db024d41b25f094a60be045
+      internalID: -495440049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 152
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d1700f59cdc24ea19003465cbd5b2
+      internalID: 1929104110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 152
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9461e122c651e0b4caa89db55323f0eb
+      internalID: -2045782496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 151
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c91309ae19b1724bae192ad49d1b5e4
+      internalID: 226707361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 152
+        width: 21
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a653c9b8b35fe04497b1e11ba4bb268
+      internalID: -2013584065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 101
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af114ef0314328a4586cf26ca92a6839
+      internalID: 768696210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 102
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6228e3a0ba24f1947a3445224b0750b0
+      internalID: 1322890202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 101
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c6879fdbc51ff4c9cdf27aab20229a
+      internalID: -271939108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 101
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b478f590e00b46bb871e10a032971
+      internalID: -1873762077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 101
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5505fb050e27aa64abf827c42784db1e
+      internalID: 237334889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 101
+        width: 23
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54550fe99e1e2a4984eb0845c5bc987
+      internalID: 1028524298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 58
+        width: 39
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2a133cce645104e80dcc888a862e68
+      internalID: 1980671259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 39
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d70e7e2b35f7448c7f598ba8ab130
+      internalID: -506056380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 52
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135a68d49d0ddd4490e4fa74d5fde23
+      internalID: 301375410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 52
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525f371cd9c6445438ef37d8d6f68f06
+      internalID: -88787986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 52
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1806b4b342ea24147befc2d00274ae3c
+      internalID: 406572186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 52
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74c48348b0d6146a283aea0298e3e1
+      internalID: 2147206204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b7ee740a6908439e2c48ec390f4a0
+      internalID: 1570608457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad067d190970a478217e94ccbe3ee3
+      internalID: -2030698668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc1d4d7faac7e48b3e73353f9d25ef
+      internalID: -1379171743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 23
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c846a7fa7785d4a803d3a11d70a01f
+      internalID: -1680947625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cd282aeb0f6a845a3a9d96f7588c16
+      internalID: -379379610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f996ece85f5806f42854f35e52d322ba
+      internalID: -2091902311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e970b4dc4b93c6b4581b432a3bd00086
+      internalID: 565958768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterBlue_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7861e35896a69b549bc3824064eea94e
+      internalID: 1463924561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b5376f4f12bde584887f338123d813d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FighterBlue_0: 849337191
+      FighterBlue_1: 1785022441
+      FighterBlue_10: -271939108
+      FighterBlue_11: -1873762077
+      FighterBlue_12: 237334889
+      FighterBlue_13: 1028524298
+      FighterBlue_14: 1980671259
+      FighterBlue_15: -506056380
+      FighterBlue_16: 301375410
+      FighterBlue_17: -88787986
+      FighterBlue_18: 406572186
+      FighterBlue_19: 2147206204
+      FighterBlue_2: 672044746
+      FighterBlue_20: 1570608457
+      FighterBlue_21: -2030698668
+      FighterBlue_22: -1379171743
+      FighterBlue_23: -1680947625
+      FighterBlue_24: -379379610
+      FighterBlue_25: -2091902311
+      FighterBlue_26: 565958768
+      FighterBlue_27: 1463924561
+      FighterBlue_3: -495440049
+      FighterBlue_4: 1929104110
+      FighterBlue_5: -2045782496
+      FighterBlue_6: 226707361
+      FighterBlue_7: -2013584065
+      FighterBlue_8: 768696210
+      FighterBlue_9: 1322890202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
